@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{E9570EA0-72C5-40BA-B99D-390AD44BA1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_OOP", "BT_OOP\BT_OOP.csproj", "{2E9D4230-44F7-43EB-BD26-5163A754F020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9570EA0-72C5-40BA-B99D-390AD44BA1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9570EA0-72C5-40BA-B99D-390AD44BA1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9570EA0-72C5-40BA-B99D-390AD44BA1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9570EA0-72C5-40BA-B99D-390AD44BA1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9D4230-44F7-43EB-BD26-5163A754F020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9D4230-44F7-43EB-BD26-5163A754F020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9D4230-44F7-43EB-BD26-5163A754F020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9D4230-44F7-43EB-BD26-5163A754F020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

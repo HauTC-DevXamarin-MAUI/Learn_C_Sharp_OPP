@@ -1,0 +1,13 @@
+OOP có 4 ttinhs chất:
+- Tính trù tượng Abstract
+các hàm trù tượng phải trong class abstract
+- Tính đóng gói và che dấu thông tin
+- Tính đa hình/// có virtual ở lớp cha, và override lớp con
+vd: Animal a = new Rabbit()
+cả 2 đều có hàm sleep()
+khi có override thì khi gọi hàm slepp()
+thì là hàm của thằng new là thằng Rabbit
+Còn k thtif là hàm của cha, Animal
+- Tính kế thừa
+- Kế thừa chỉ đc 1 class(base) 
+nhưng đc kế thừa nhiều interface

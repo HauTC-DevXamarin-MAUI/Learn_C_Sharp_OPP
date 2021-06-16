@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\C#_OPP\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\C#_OPP\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\C#_OPP\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\C#_OPP\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\C#_OPP\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\C#_OPP\OOP\OOP\obj\Debug\OOP.pdb
